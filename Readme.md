@@ -1,0 +1,1 @@
+PyTorch implementation of [Learning Few-Shot Segmentation From Bounding Box Annotations](https://openaccess.thecvf.com/content/WACV2023/html/Han_Learning_Few-Shot_Segmentation_From_Bounding_Box_Annotations_WACV_2023_paper.html)
